@@ -76,8 +76,8 @@ export default {
     },
   },
   data: () => ({
-    sortBy: "created",
-    sortDesc: true,
+    sortBy: "length",
+    sortDesc: false,
     options: {},
     filterOffset: 0,
     filterLimit: 0,

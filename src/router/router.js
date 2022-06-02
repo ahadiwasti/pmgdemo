@@ -2,7 +2,7 @@ export const constantRouterMap = [
   {
     path: "",
     name: "home",
-    component: () => import("@/views/Index"),
+    component: () => import("@/views/Films"),
   },
   {
     path: "/films",
